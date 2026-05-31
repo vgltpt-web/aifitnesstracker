@@ -46,7 +46,7 @@ git clone https://github.com/your-username/aifitnesstracker.git
 - Responsive mobile design
 
 ## 👨‍💻 Author
-Developed by Lucky
+Developed by lakshminarayana
 
 ## 📄 License
 This project is for educational and learning purposes.
